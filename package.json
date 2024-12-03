@@ -1,0 +1,31 @@
+{
+  "name": "robot-control-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "HOST=0.0.0.0 nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxtjs/color-mode": "^3.3.2",
+    "@pinia/nuxt": "^0.5.1",
+    "@unocss/nuxt": "^0.58.5",
+    "@vueuse/core": "^10.7.2",
+    "@vueuse/nuxt": "^10.7.2",
+    "nuxt": "^3.13.0",
+    "pinia": "^2.1.7",
+    "socket.io-client": "^4.7.4"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "^1.0.8",
+    "@types/node": "^20.11.24",
+    "@unocss/preset-attributify": "^0.58.5",
+    "@unocss/preset-icons": "^0.58.5",
+    "@unocss/preset-typography": "^0.58.5",
+    "@unocss/preset-uno": "^0.58.5",
+    "@unocss/preset-web-fonts": "^0.58.5"
+  }
+}
