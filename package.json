@@ -11,21 +11,21 @@
   },
   "dependencies": {
     "@nuxtjs/color-mode": "^3.3.2",
-    "@pinia/nuxt": "^0.5.1",
-    "@unocss/nuxt": "^0.58.5",
-    "@vueuse/core": "^10.7.2",
-    "@vueuse/nuxt": "^10.7.2",
+    "@pinia/nuxt": "^0.8.0",
+    "@unocss/nuxt": "^0.65.0",
+    "@vueuse/core": "^12.0.0",
+    "@vueuse/nuxt": "^12.0.0",
     "nuxt": "^3.13.0",
     "pinia": "^2.1.7",
     "socket.io-client": "^4.7.4"
   },
   "devDependencies": {
-    "@nuxt/devtools": "^1.0.8",
-    "@types/node": "^20.11.24",
-    "@unocss/preset-attributify": "^0.58.5",
-    "@unocss/preset-icons": "^0.58.5",
-    "@unocss/preset-typography": "^0.58.5",
-    "@unocss/preset-uno": "^0.58.5",
-    "@unocss/preset-web-fonts": "^0.58.5"
+    "@nuxt/devtools": "^1.6.2",
+    "@types/node": "^22.10.1",
+    "@unocss/preset-attributify": "^0.65.0",
+    "@unocss/preset-icons": "^0.65.0",
+    "@unocss/preset-typography": "^0.65.0",
+    "@unocss/preset-uno": "^0.65.0",
+    "@unocss/preset-web-fonts": "^0.65.0"
   }
 }
